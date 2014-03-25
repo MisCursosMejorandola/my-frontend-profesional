@@ -1,4 +1,6 @@
-my-frontend-profesional
-=======================
+Autor: @sergio_andresac
 
-Actividad Clase 1
+my-frontend-profesional
+============================
+
+Esta es mi repo personal del curso profesional de frontend 3ra generación de Mejorando.la
